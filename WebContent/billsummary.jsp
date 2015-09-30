@@ -11,7 +11,7 @@
           
             window.history.forward(); 
             function noBack() { 
-            	window.history.forward(); 
+            	window.history.forward();  
             	}
     </script>
      <style type="text/css">
